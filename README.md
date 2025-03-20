@@ -26,6 +26,10 @@ SQL
 
 ML
 
+Git & GitHub
+
+Streamlit
+
 ---
 
 ## 📌 Featured Project
