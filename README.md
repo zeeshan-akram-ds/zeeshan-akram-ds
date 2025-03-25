@@ -38,7 +38,8 @@ Streamlit
 
 🔹 **Description:** A **fully interactive dashboard** built using **Streamlit** for Customer Churn Analysis. It includes insightful **EDA, visualizations, and advanced filtering** to help businesses understand churn trends.\
 🔹 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Plotly, Streamlit\
-🔹 **GitHub Repo:** [Customer Churn Dashboard](https://github.com/zeeshan-akram-ds/customer-churn-dashboard)
+🔹 **GitHub Repo:** [Customer Churn Dashboard](https://github.com/zeeshan-akram-ds/customer-churn-dashboard)\
+🔹 **Streamlit Link:** [Streamlit app link](https://customer-churn-dashboard-ogznspbcvurphc9qkjmahz.streamlit.app/)
 
 *(More projects coming soon, including SQL-based Data Analysis and ML models)*
 
