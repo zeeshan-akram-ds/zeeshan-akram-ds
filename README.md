@@ -1,12 +1,12 @@
-# Hi, I'm Zeeshan Akram! 👋
+# Hi, I'm Zeeshan Akram! 
 
-### 🚀 Data Science & Machine Learning Enthusiast&#x20;
+### Data Science & Machine Learning Enthusiast&#x20;
 
 I am a passionate **Software Engineering student** specializing in **Data Science and Machine Learning**. My interests revolve around **data analysis, predictive modeling, and building intelligent solutions**. Currently, I am advancing my skills in **SQL, Machine Learning, and Exploratory Data Analysis (EDA)** to prepare for real-world applications. My long-term goal is to excel in **Advanced ML, Deep Learning, NLP, and MLOps**.
 
 ---
 
-## 🛠 Skills & Technologies
+## Skills & Technologies
 
 Python
 
@@ -32,9 +32,9 @@ Streamlit
 
 ---
 
-## 📌 Featured Project
+## Featured Project
 
-### **📊 Customer Churn Dashboard (Streamlit)**
+### ** Customer Churn Dashboard (Streamlit)**
 
 🔹 **Description:** A **fully interactive dashboard** built using **Streamlit** for Customer Churn Analysis. It includes insightful **EDA, visualizations, and advanced filtering** to help businesses understand churn trends.\
 🔹 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Plotly, Streamlit\
@@ -44,14 +44,14 @@ Streamlit
 
 ---
 
-## 📚 Learning & Future Goals
+##  Learning & Future Goals
 
-- 📖 **Currently Learning:** SQL, ML, EDA
-- 🚀 **Future Goals:** Advanced ML, Deep Learning, NLP, Transformers, MLOps
+-  **Currently Learning:** SQL, ML, EDA
+-  **Future Goals:** Advanced ML, Deep Learning, NLP, Transformers, MLOps
 
 ---
 
-## 🤝 Let's Collaborate!
+## Let's Collaborate!
 
 I am open to **collaborating** on Data Science projects, internships, and learning opportunities. Feel free to **connect with me**!
 
