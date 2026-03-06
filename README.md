@@ -1,72 +1,50 @@
-# Hi, I'm Zeeshan Akram 👋
+# Hi there, I'm Zeeshan! 👋
+### Data Analyst | Business Intelligence | SQL & Python Specialist
 
-### Data Analyst | Business Intelligence Specialist | Python & SQL
+Welcome to my GitHub! I am a Data Analyst with a background in Software Engineering, specializing in turning complex, messy datasets into clear, actionable business stories. 
 
-I’m a **Data Analyst** who goes beyond Excel. I use **Python, SQL, and Statistical Methods** to build **automated reporting systems** and **interactive dashboards** that drive decision-making.
-My unique advantage is combining **Descriptive Analytics** (Charts/KPIs) with **Predictive Analytics** (ML) to provide deeper business context.
-
----
-
-## 🌟 Top Project Highlights
-
-| Project | Key Insight / Achievement | Business Value |
-| :--- | :--- | :--- |
-| **[Olist E-Commerce Audit](https://github.com/zeeshan-akram-ds/Olist-ECommerce-Analysis)** | Diagnosed logicstics failures & churn via RFM Analysis. | **Identified $191k+ in revenue recovery.** |
-| **[Superstore BI Automation](https://internship-tasks-devapp-qbezt4qddwcbj4y5qwewjs.streamlit.app/)** | Built real-time dashboard with **Automated PDF Reports**. | **Reduced manual reporting time by 90%.** |
-| **[Telecom Retention Analysis](https://telecom-churn-survival-kdj4ca5aikobrbdeorqssv.streamlit.app/)** | Used Survival Analysis to forecast customer lifespan. | **Identified "Complaint-Driven" Churn Risk.** |
-| **[Credit Risk Assessment](https://internship-tasks-devapp-4mrc94edtksynutbcdmija.streamlit.app/)** | Loan Default Prediction using historical financial data. | **Minimized Risk Exposure.** |
+I bridge the gap between raw database metrics and executive decision-making. Whether it's writing complex SQL queries to extract insights, cleaning data with Python, or building interactive BI dashboards, my goal is to help businesses grow through data-driven clarity.
 
 ---
 
-## 🚀 Featured Analytics Projects
+### 🛠️ Tech Stack & Analytics Arsenal
 
-### 📊 [Olist E-Commerce Strategic Audit](https://github.com/zeeshan-akram-ds/Olist-ECommerce-Analysis)
-*From Raw Logs to Executive Strategy.*
-- **The Problem:** Revenue was stagnant despite high sales volume.
-- **The Analysis:** Conducted **RFM Segmentation** and **Hypothesis Testing** on 100k+ orders.
-- **The Finding:** Discovered the "Satisfaction Cliff"—late deliveries caused a 50% drop in ratings, while price had zero impact.
-- **The Outcome:** Recommended targeted logistics fixes in specific regions (RO/AM) to unlock **$191k** in value.
-- **Tech:** Python · Pandas · Exploratory Data Analysis (EDA) · Streamlit
+* **Databases & Querying:** Advanced SQL (PostgreSQL, MySQL), Window Functions, CTEs, Joins
+* **Data Manipulation & Cleaning:** Python (Pandas, NumPy), Excel (Pivot Tables, XLOOKUP)
+* **Data Visualization & BI:** Power BI, Streamlit, Matplotlib, Seaborn, Plotly
+* **Business Acumen:** KPI Tracking, Revenue/Profit Analysis, Customer Segmentation
+* **Tools & Version Control:** Git, GitHub, Jupyter Notebooks, VS Code
 
 ---
 
-### 📈 [Superstore Sales: BI & Automated Reporting](https://github.com/zeeshan-akram-ds/Superstore-Sales-Dashboard)
-*Automating the "Monday Morning Report".*
-- **The Goal:** Eliminate manual Excel reporting for sales managers.
-- **The Solution:** A **Streamlit Dashboard** that tracks KPIs (Profit, Sales, YoS) in real-time.
-- **Key Feature:** Included a "Generate PDF Report" button that creates an executive summary instantly.
-- **Tech:** Python · Plotly · FPDF · SQL Logic · Interactive Filters
-- [View Dashboard](https://internship-tasks-devapp-qbezt4qddwcbj4y5qwewjs.streamlit.app/)
+### 📊 Featured Analytics Projects
+
+*(I focus on projects that solve real business problems, from ETL pipelines to final executive dashboards.)*
+
+#### 1. [Superstore Sales Intelligence Dashboard](LINK-TO-YOUR-SUPERSTORE-REPO)
+* **The Business Problem:** Executives needed real-time visibility into regional profitability and sales trends without relying on static Excel files.
+* **My Solution:** Engineered an interactive BI dashboard that tracks revenue KPIs, highlights profit drops, and allows drill-down analysis by customer segment. 
+* **Tech:** Python, Pandas (Data Cleaning), Streamlit, Plotly (Visualization).
+
+#### 2. [SQL Business Case Study: E-Commerce Analytics] ⏳ *(Currently Building)*
+* **The Business Problem:** Answering ad-hoc business questions regarding customer retention, month-over-month revenue growth, and product category performance.
+* **My Solution:** A comprehensive suite of advanced SQL queries (CTEs, Window Functions) documented cleanly to extract key metrics directly from a relational database.
+
+#### 3. [End-to-End Retail Dashboard] ⏳ *(Currently Building)*
+* **The Business Problem:** Automating the data pipeline from raw CSVs to a final, interactive executive presentation.
+* **My Solution:** Data cleaning via Python, loaded into a structured data model, and visualized through a multi-page Power BI Dashboard.
 
 ---
 
-### 📉 [Telecom Customer Retention Analysis](https://telecom-churn-survival-kdj4ca5aikobrbdeorqssv.streamlit.app/)
-*Predictive Intelligence for Customer Success.*
-- **The Analysis:** Instead of just reporting *past* churn, I used **Survival Analysis** to predict *future* churn risk.
-- **Insight:** Customers with open complaints are **4x more likely** to leave within 60 days.
-- **Tech:** Python · Lifelines · Statistical Analysis · SHAP
-- [View Analysis](https://github.com/zeeshan-akram-ds/telecom-churn-survival)
+### 📈 What I'm Currently Focused On
+* Mastering **Power BI** DAX and Data Modeling for corporate reporting.
+* Solving complex business questions using **Advanced SQL**.
+* Enhancing my conversational English fluency to effectively communicate analytical findings to global stakeholders.
 
 ---
 
-## 🛠 Analyst Toolkit
-
-**Core Data Skills:**
-`SQL (Joins, Aggregations)` · `Data Cleaning (Pandas)` · `EDA` · `Statistical Inference` · `Excel`
-
-**Visualization & BI:**
-`Streamlit` · `Plotly` · `Seaborn` · `Automated Reporting`
-
-**The "ML Touch" (Advanced):**
-`Forecasting` · `Regression Analysis` · `Classification` · `Clustering (K-Means)`
-
----
-
-## 🤝 Let’s Connect
-
-I’m open to **Data Analyst** and **Business Intelligence** roles (Remote/Hybrid). If you need someone who can query the data, clean it, AND tell you what it means for your bottom line, let's talk.
-
-📧 **Email:** [zeeshanakram1704@gmail.com](mailto:zeeshanakram1704@gmail.com)
-💼 **LinkedIn:** [Zeeshan Akram](https://www.linkedin.com/in/zeeshan-akram-572bbb34a/)
-
----
+### 📫 Let's Connect!
+Looking for a freelance Data Analyst or someone to automate your reporting? 
+* **LinkedIn:** https://www.linkedin.com/in/zeeshan-akram-572bbb34a
+* **Email:** zeeshanakram1704@gmail.com
+* **Portfolio:** https://zeeshan-portfolio-swart.vercel.app/
