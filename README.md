@@ -1,50 +1,48 @@
-# Hi there, I'm Zeeshan! 👋
-### Data Analyst | Business Intelligence | SQL & Python Specialist
+# Hi, I'm Zeeshan 👋
+### Data Analyst | Business Intelligence & Python Specialist
 
-Welcome to my GitHub! I am a Data Analyst with a background in Software Engineering, specializing in turning complex, messy datasets into clear, actionable business stories. 
+I am a Data Analyst with a strong foundation in Software Engineering, focused on turning messy databases into clear, executive-level business stories. 
 
-I bridge the gap between raw database metrics and executive decision-making. Whether it's writing complex SQL queries to extract insights, cleaning data with Python, or building interactive BI dashboards, my goal is to help businesses grow through data-driven clarity.
-
----
-
-### 🛠️ Tech Stack & Analytics Arsenal
-
-* **Databases & Querying:** Advanced SQL (PostgreSQL, MySQL), Window Functions, CTEs, Joins
-* **Data Manipulation & Cleaning:** Python (Pandas, NumPy), Excel (Pivot Tables, XLOOKUP)
-* **Data Visualization & BI:** Power BI, Streamlit, Matplotlib, Seaborn, Plotly
-* **Business Acumen:** KPI Tracking, Revenue/Profit Analysis, Customer Segmentation
-* **Tools & Version Control:** Git, GitHub, Jupyter Notebooks, VS Code
+I bridge the gap between raw data and strategic decision-making. My expertise lies in cleaning complex datasets with Python, querying relational databases, and building interactive dashboards that track revenue, profitability, and customer behavior.
 
 ---
 
-### 📊 Featured Analytics Projects
+### 🛠️ Core Analytics Stack
 
-*(I focus on projects that solve real business problems, from ETL pipelines to final executive dashboards.)*
-
-#### 1. [Superstore Sales Intelligence Dashboard](LINK-TO-YOUR-SUPERSTORE-REPO)
-* **The Business Problem:** Executives needed real-time visibility into regional profitability and sales trends without relying on static Excel files.
-* **My Solution:** Engineered an interactive BI dashboard that tracks revenue KPIs, highlights profit drops, and allows drill-down analysis by customer segment. 
-* **Tech:** Python, Pandas (Data Cleaning), Streamlit, Plotly (Visualization).
-
-#### 2. [SQL Business Case Study: E-Commerce Analytics] ⏳ *(Currently Building)*
-* **The Business Problem:** Answering ad-hoc business questions regarding customer retention, month-over-month revenue growth, and product category performance.
-* **My Solution:** A comprehensive suite of advanced SQL queries (CTEs, Window Functions) documented cleanly to extract key metrics directly from a relational database.
-
-#### 3. [End-to-End Retail Dashboard] ⏳ *(Currently Building)*
-* **The Business Problem:** Automating the data pipeline from raw CSVs to a final, interactive executive presentation.
-* **My Solution:** Data cleaning via Python, loaded into a structured data model, and visualized through a multi-page Power BI Dashboard.
+* **Data Manipulation & Cleaning:** Python (Pandas, NumPy)
+* **Databases & Querying:** SQL (PostgreSQL, MySQL), CTEs, Window Functions, Joins
+* **Data Visualization & BI:** Power BI, Streamlit, Matplotlib, Seaborn
+* **Business Acumen:** Sales Forecasting, Churn Analysis, KPI Tracking, Margin Analysis
+* **Tools:** Git, GitHub, VS Code, Jupyter Notebooks
 
 ---
 
-### 📈 What I'm Currently Focused On
-* Mastering **Power BI** DAX and Data Modeling for corporate reporting.
-* Solving complex business questions using **Advanced SQL**.
-* Enhancing my conversational English fluency to effectively communicate analytical findings to global stakeholders.
+### 📊 Featured Analytics Portfolio
+
+#### 1. [Executive Sales Intelligence Dashboard](https://github.com/zeeshan-akram-ds/SuperStore-Sales-Dashboard)
+* **Business Value:** Replaced static Excel reporting with an interactive Business Intelligence tool for regional managers.
+* **Features:** Live tracking of Revenue and Profit margins, automated "Profit Drop" alerts, and one-click PDF report generation.
+* **Tech Stack:** Python, Pandas, Streamlit, Plotly, FPDF.
+
+#### 2. [Olist E-Commerce Business Analysis](https://github.com/zeeshan-akram-ds/Olist-ECommerce-Analysis)
+* **Business Value:** Performed deep Exploratory Data Analysis (EDA) on over 100,000 real-world e-commerce transactions to identify operational Issues.
+* **Features:** Analyzed the impact of delivery times on customer review scores, mapped revenue across Brazilian states, and identified top-performing product categories.
+* **Tech Stack:** Python, Pandas, Seaborn, Matplotlib.
+
+#### 3. [SQL Business Case Studies] ⏳ *(Currently Building)*
+* **Business Value:** Translating ad-hoc executive questions into optimized database queries.
+* **Focus:** Writing clean, documented SQL to calculate month-over-month retention, customer lifetime value (LTV), and cohort analysis.
 
 ---
 
-### 📫 Let's Connect!
-Looking for a freelance Data Analyst or someone to automate your reporting? 
+### 🚀 What I'm Focused On Right Now
+* Transitioning my Python visualization skills into corporate **Power BI** environments.
+* Solving complex business logic problems using **Advanced SQL**.
+* Enhancing my conversational English fluency to effectively present data narratives to international stakeholders.
+
+---
+
+### 📫 Let's Connect
+I am currently open to remote Junior Data Analyst roles or freelance reporting projects.
 * **LinkedIn:** https://www.linkedin.com/in/zeeshan-akram-572bbb34a
 * **Email:** zeeshanakram1704@gmail.com
-* **Portfolio:** https://zeeshan-portfolio-swart.vercel.app/
