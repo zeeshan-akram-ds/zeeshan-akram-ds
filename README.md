@@ -9,7 +9,7 @@ I bridge the gap between raw data and strategic decision-making. My expertise li
 
 ### 🛠️ Core Analytics Stack
 
-* **Data Manipulation & Cleaning:** Python (Pandas, NumPy)
+* **Data Manipulation & Cleaning:** Python (Pandas, NumPy), Advance Excel
 * **Databases & Querying:** SQL (PostgreSQL, MySQL), CTEs, Window Functions, Joins
 * **Data Visualization & BI:** Power BI, Streamlit, Matplotlib, Seaborn
 * **Business Acumen:** Sales Forecasting, Churn Analysis, KPI Tracking, Margin Analysis
@@ -17,22 +17,27 @@ I bridge the gap between raw data and strategic decision-making. My expertise li
 
 ---
 
-### 📊 Featured Analytics Portfolio
+### Featured Analytics Portfolio
 
-#### 1. [Executive Sales Intelligence Dashboard](https://github.com/zeeshan-akram-ds/SuperStore-Sales-Dashboard)
-* **Business Value:** Replaced static Excel reporting with an interactive Business Intelligence tool for regional managers.
-* **Features:** Live tracking of Revenue and Profit margins, automated "Profit Drop" alerts, and one-click PDF report generation.
-* **Tech Stack:** Python, Pandas, Streamlit, Plotly, FPDF.
+#### 1. [Executive Sales Intelligence Dashboard](https://github.com/zeeshan-akram-ds/PowerBI-Executive-Sales-Dashboard)
+* **Business Value:** Replaced static Excel data dumps with dynamic YoY insights, instantly highlighting margin bottlenecks and regional growth.
+* **Features:** Dynamic time-intelligence (DAX), cross-filtering by region/category, and a high-contrast executive UI.
+* **Tech Stack:** Power BI, DAX, Power Query, Data Modeling.
 
-#### 2. [Olist E-Commerce Business Analysis](https://github.com/zeeshan-akram-ds/Olist-ECommerce-Analysis)
-* **Business Value:** Performed deep Exploratory Data Analysis (EDA) on over 100,000 real-world e-commerce transactions to identify operational Issues.
-* **Features:** Analyzed the impact of delivery times on customer review scores, mapped revenue across Brazilian states, and identified top-performing product categories.
-* **Tech Stack:** Python, Pandas, Seaborn, Matplotlib.
+#### 2. [E-Commerce Operations & RFM Analysis](https://github.com/zeeshan-akram-ds/Olist-ECommerce-Analysis)
+* **Business Value:** Identified logistics as the core driver of a 97% customer churn rate across 113,000+ orders.
+* **Features:** Merged 5 relational tables to map delivery delays to customer satisfaction and performed RFM segmentation.
+* **Tech Stack:** Python, Pandas, Seaborn, RFM Analysis, SQL, PowerBI.
 
-#### 3. [SQL Business Case Studies] ⏳ *(Currently Building)*
-* **Business Value:** Translating ad-hoc executive questions into optimized database queries.
-* **Focus:** Writing clean, documented SQL to calculate month-over-month retention, customer lifetime value (LTV), and cohort analysis.
+#### 3. [ClassicModels Sales & Inventory Analysis](https://github.com/zeeshan-akram-ds/ClassicModels-SQL-Analysis)
+* **Business Value:** Identified a severe 67:1 demand-to-stock ratio bottleneck and pinpointed exact micro-upsell opportunities to drive VIP tier growth.
+* **Features:** Engineered complex queries using CTEs, Window Functions, and Multi-table Joins to extract actionable revenue distribution insights.
+* **Tech Stack:** SQL, MySQL, CTEs, Window Functions.
 
+#### 4. [UK Retail CLV & RFM Intelligence System](https://github.com/zeeshan-akram-ds/excel-clv-churn-analysis)
+* **Business Value:** Revealed a 40x VIP multiplier (£8,767 vs £220 CLV) and modeled a £390K+ incremental revenue opportunity by upgrading stagnant cohorts.
+* **Features:** Processed 1 million+ rows via an ETL pipeline, built a 1-to-many relational schema, and coded a dynamic segmentation engine.
+* **Tech Stack:** Advanced Excel, Power Pivot, Power Query.
 ---
 
 ### 🚀 What I'm Focused On Right Now
