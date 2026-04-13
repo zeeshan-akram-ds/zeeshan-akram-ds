@@ -12,8 +12,20 @@ I bridge the gap between raw data and strategic decision-making. My expertise li
 * **Data Manipulation & Cleaning:** Python (Pandas, NumPy), Advance Excel
 * **Databases & Querying:** SQL (PostgreSQL, MySQL), CTEs, Window Functions, Joins
 * **Data Visualization & BI:** Power BI, Streamlit, Matplotlib, Seaborn
-* **Business Acumen:** Sales Forecasting, Churn Analysis, KPI Tracking, Margin Analysis
+* **Soft Skills:** Business Acumen, Critical thinking, Problem Framing, Stakeholder communication, Attention to Detail, Data Storytelling 
 * **Tools:** Git, GitHub, VS Code, Jupyter Notebooks
+
+---
+
+### 🎓 Technical Education & Roadmap
+* **Degree:** BS Software Engineering (4th Semester) — Virtual University of Pakistan (Focusing on Software engineering best practices, DataBases)
+* **Current Focus:** Following a rigorous, hours-based Data Analytics roadmap in **Obsidian**, documenting advanced SQL logic, Python EDA, PowerBI practice, Soft Skills development.
+
+---
+
+### 📜 Professional Certifications
+* **IBM:** Data Analysis with Python | SQL for Data Science | Data Visualization with Python
+* **Google:** Crash Course on Python
 
 ---
 
@@ -38,6 +50,7 @@ I bridge the gap between raw data and strategic decision-making. My expertise li
 * **Business Value:** Revealed a 40x VIP multiplier (£8,767 vs £220 CLV) and modeled a £390K+ incremental revenue opportunity by upgrading stagnant cohorts.
 * **Features:** Processed 1 million+ rows via an ETL pipeline, built a 1-to-many relational schema, and coded a dynamic segmentation engine.
 * **Tech Stack:** Advanced Excel, Power Pivot, Power Query.
+
 ---
 
 ### 🚀 What I'm Focused On Right Now
@@ -49,5 +62,6 @@ I bridge the gap between raw data and strategic decision-making. My expertise li
 
 ### 📫 Let's Connect
 I am currently open to remote Junior Data Analyst roles or freelance reporting projects.
-* **LinkedIn:** https://www.linkedin.com/in/zeeshan-akram-572bbb34a
+* **LinkedIn:** [Linkedin](https://www.linkedin.com/in/zeeshan-akram-ds)
 * **Email:** zeeshanakram1704@gmail.com
+* **Portfolio:** [Go To Website](https://zeeshan-portfolio-swart.vercel.app)
