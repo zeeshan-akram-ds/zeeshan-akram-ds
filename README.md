@@ -1,6 +1,6 @@
 # Zeeshan Akram — Retail & E-Commerce Data Analyst
 
-I specialise in **retail and e-commerce analytics**, focusing on the commercial problems that directly impact revenue, margin, and customer retention. 
+I specialise in **retail, SaaS and e-commerce analytics**, focusing on the commercial problems that directly impact revenue, margin, and customer retention. 
 
 With a background in Software Engineering, I build solutions from the data layer up: clean pipelines, structured SQL, and business intelligence designed for decision-makers.
 
@@ -25,6 +25,9 @@ Every project ends with a clear finding framed in **revenue, margin, or risk** �
 - **Stockout risk identified** for a critical SKU in a product category responsible for **40% of total revenue** — preventing a disproportionate revenue loss.  
   → [ClassicModels Sales & Inventory Analysis](https://github.com/zeeshan-akram-ds/ClassicModels-SQL-Analysis)
 
+- **61% of all retail transactions operating below listed price** revealed a structurally embedded discounting system that compressed margins by ~4 percentage points and reduced profit per order line by ~$97. Built a full pricing audit across PostgreSQL, Python, and Power BI to isolate category-level leakage, discount-dependent customer behavior, and centralized pricing governance.  
+  → [Retail Discount Profitability & Revenue Leakage Audit](https://github.com/zeeshan-akram-ds/retail-discount-profitability-audit)
+
 ---
 
 ## Core Stack
@@ -46,9 +49,9 @@ Git, GitHub, Jupyter Notebooks, VS Code
 ## Featured Projects
 
 ### [Retail Discount Profitability & Revenue Leakage Audit](https://github.com/zeeshan-akram-ds/retail-discount-profitability-audit)
-`Python` `SQL (PostgreSQL)` `Power BI`
+`PostgreSQL` `Python` `Power BI` `Executive Reporting`
 
-Auditing discount strategies to reveal where they destroy margin instead of driving profitable volume. Identifies product categories that should never be discounted, unprofitable discount-dependent segments, and the true annual cost of the current pricing policy. *(Active)*
+Full-stack pricing and profitability audit across 223K+ retail transaction lines. Identified structurally embedded discounting that compressed margins by ~4 percentage points and reduced profit per discounted order line by ~$97. Built executive dashboards, a formal audit report, and a stakeholder presentation to isolate category-level leakage, customer discount dependency, and centralized pricing behavior.
 
 ---
 
@@ -80,17 +83,18 @@ In-depth multi-table SQL analysis identifying a 67:1 demand-to-stock bottleneck 
 
 ---
 
-## Currently Building
+## Recent Work
 
-**Retail Discount Profitability Audit** — A full-stack analysis (PostgreSQL + Python + Power BI) built to answer the margin question every retail business needs answered.
+**Retail Discount Profitability & Revenue Leakage Audit** — A full-stack pricing audit combining PostgreSQL, Python, Power BI, executive reporting, and stakeholder presentation design to investigate whether discounting was driving growth or systematically destroying margin.
 
 ---
 
 ## Available For
 
-Retail and e-commerce businesses with a revenue, margin, or customer behaviour problem worth solving. I work remotely with businesses globally, with full availability across UK/EMEA hours and US Eastern mornings.
+Retail, SaaS and e-commerce businesses with a revenue, margin, or customer behaviour problem worth solving. I work remotely with businesses globally.
 
 If the problem is in your data, [let's talk.](mailto:zeeshanakram1704@gmail.com)
 
 **LinkedIn:** [zeeshan-akram-ds](https://www.linkedin.com/in/zeeshan-akram-ds)  
 **Portfolio:** [zeeshan-portfolio-swart.vercel.app](https://zeeshan-portfolio-swart.vercel.app)
+
