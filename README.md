@@ -1,10 +1,8 @@
-# Zeeshan Akram — Retail & E-Commerce Data Analyst
+# Zeeshan Akram — E-Commerce Profit & Margin Analyst
 
-I specialise in **retail, SaaS and e-commerce analytics**, focusing on the commercial problems that directly impact revenue, margin, and customer retention. 
+I specialise in **e-commerce profit and margin analytics** — specifically the commercial problems that are invisible on a revenue report but measurable in transaction data: discount erosion, inventory cash traps, and SKU-level margin distortion. Every project produces a single deliverable: a finding expressed in revenue recovered, margin protected, or operational risk eliminated.
 
 With a background in Software Engineering, I build solutions from the data layer up: clean pipelines, structured SQL, and business intelligence designed for decision-makers.
-
-Every project ends with a clear finding framed in **revenue, margin, or risk** — never just rows processed or charts created.
 
 ---
 
@@ -19,13 +17,10 @@ Every project ends with a clear finding framed in **revenue, margin, or risk** �
 - **40x lifetime value gap** (£8,767 vs £220) between customer segments in a 1M+ row retail dataset. Identified a **£390K incremental revenue opportunity** from upgrading stagnant cohorts.  
   → [UK Retail CLV & RFM Intelligence System](https://github.com/zeeshan-akram-ds/excel-clv-churn-analysis)
 
-- **42.7% churn rate** in a SaaS business that appeared to be a retention problem but was actually a **contract design issue** (month-to-month agreements carried the majority of revenue at risk).  
-  → [SaaS Customer Churn & Revenue Risk Analysis](https://github.com/zeeshan-akram-ds/saas-customer-lifecycle-analytics-)
-
-- **Stockout risk identified** for a critical SKU in a product category responsible for **40% of total revenue** — preventing a disproportionate revenue loss.  
+- **Stockout risk identified** for a critical SKU responsible for **40% of category revenue** — preventing a disproportionate revenue loss.  
   → [ClassicModels Sales & Inventory Analysis](https://github.com/zeeshan-akram-ds/ClassicModels-SQL-Analysis)
 
-- **61% of all retail transactions operating below listed price** revealed a structurally embedded discounting system that compressed margins by ~4 percentage points and reduced profit per order line by ~$97. Built a full pricing audit across PostgreSQL, Python, and Power BI to isolate category-level leakage, discount-dependent customer behavior, and centralized pricing governance.  
+- **61% of all retail transactions operating below listed price** revealed a structurally embedded discounting system that compressed margins by ~4 percentage points and reduced profit per order line by ~$97. Built a full pricing audit across PostgreSQL, Python, and Power BI.  
   → [Retail Discount Profitability & Revenue Leakage Audit](https://github.com/zeeshan-akram-ds/retail-discount-profitability-audit)
 
 ---
@@ -49,52 +44,37 @@ Git, GitHub, Jupyter Notebooks, VS Code
 ## Featured Projects
 
 ### [Retail Discount Profitability & Revenue Leakage Audit](https://github.com/zeeshan-akram-ds/retail-discount-profitability-audit)
-`PostgreSQL` `Python` `Power BI` `Executive Reporting`
-
-Full-stack pricing and profitability audit across 223K+ retail transaction lines. Identified structurally embedded discounting that compressed margins by ~4 percentage points and reduced profit per discounted order line by ~$97. Built executive dashboards, a formal audit report, and a stakeholder presentation to isolate category-level leakage, customer discount dependency, and centralized pricing behavior.
-
----
+`PostgreSQL` `Python` `Power BI` `Executive Reporting`  
+Full-stack pricing and profitability audit across 223K+ retail transaction lines. Identified structurally embedded discounting that compressed margins by ~4 percentage points and reduced profit per discounted order line by ~$97. Delivered executive dashboards, formal audit report, and stakeholder presentation.
 
 ### [E-Commerce Operations & RFM Analysis](https://github.com/zeeshan-akram-ds/Olist-ECommerce-Analysis)
-`Python` `SQL` `Power BI`
-
-Merged five relational tables (113,000+ orders) to diagnose a 96.9% single-purchase churn rate. Delivery lead time was the dominant driver of retention. Product quality had no statistically significant impact.
-
----
+`Python` `SQL` `Power BI`  
+Merged five relational tables (113,000+ orders) to diagnose a 96.9% single-purchase churn rate. Delivery lead time was the dominant driver of retention, not product or marketing.
 
 ### [Executive Sales Intelligence Dashboard](https://github.com/zeeshan-akram-ds/PowerBI-Executive-Sales-Dashboard)
-`Power BI` `DAX` `Power Query`
-
-Replaced static Excel reports with a dynamic executive dashboard tracking YoY revenue, margin, and performance. Uncovered significant margin erosion hidden behind healthy top-line growth.
-
----
+`Power BI` `DAX` `Power Query`  
+Dynamic executive dashboard that revealed significant margin erosion hidden behind healthy top-line revenue growth.
 
 ### [UK Retail CLV & RFM Intelligence System](https://github.com/zeeshan-akram-ds/excel-clv-churn-analysis)
-`Advanced Excel` `Power Pivot` `Power Query`
-
+`Advanced Excel` `Power Pivot` `Power Query`  
 ETL pipeline on 1M+ rows to build RFM segmentation and Customer Lifetime Value models. Discovered a 40x LTV gap and modelled a £390K revenue opportunity from targeted cohort upgrades.
 
----
-
 ### [ClassicModels Sales & Inventory Analysis](https://github.com/zeeshan-akram-ds/ClassicModels-SQL-Analysis)
-`SQL` `MySQL` `CTEs` `Window Functions`
-
-In-depth multi-table SQL analysis identifying a 67:1 demand-to-stock bottleneck on a key SKU in the highest-revenue category, plus segmented upsell opportunities.
+`SQL` `MySQL` `CTEs` `Window Functions`  
+Multi-table analysis identifying critical stockout risk on a high-velocity SKU responsible for 40% of category revenue, along with segmented upsell opportunities.
 
 ---
 
 ## Recent Work
-
-**Retail Discount Profitability & Revenue Leakage Audit** — A full-stack pricing audit combining PostgreSQL, Python, Power BI, executive reporting, and stakeholder presentation design to investigate whether discounting was driving growth or systematically destroying margin.
+**Retail Discount Profitability & Revenue Leakage Audit** — Full-stack pricing audit combining PostgreSQL, Python, and Power BI to quantify how discounting was systematically destroying margin across two major categories.
 
 ---
 
 ## Available For
+E-commerce and retail businesses looking to protect and grow margin through sharper data visibility. I work remotely with founders and operators globally.
 
-Retail, SaaS and e-commerce businesses with a revenue, margin, or customer behaviour problem worth solving. I work remotely with businesses globally.
-
-If the problem is in your data, [let's talk.](mailto:zeeshanakram1704@gmail.com)
+If the problem is hiding in your transaction data, [let's talk.](mailto:zeeshanakram1704@gmail.com)
 
 **LinkedIn:** [zeeshan-akram-ds](https://www.linkedin.com/in/zeeshan-akram-ds)  
-**Portfolio:** [zeeshan-portfolio-swart.vercel.app](https://zeeshan-portfolio-swart.vercel.app)
-
+**Portfolio:** [zeeshan-portfolio-swart.vercel.app](https://zeeshan-portfolio-swart.vercel.app)  
+**Book a Discovery Call:** [Book a Call](https://calendly.com/zeeshanakram/data-diagnostic)
